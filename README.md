@@ -1,5 +1,5 @@
-# Web_Analytics:NBA_Predictions_with_Twitter
-This is a Data Science Project ! - Twitter Analytics with Machine Learning and Deep Learning Methodologies.
+# Web_Analytics: NBA_Predictions_with_Twitter
+Hi all, this is a Data Science Project ! - Twitter Analytics with Machine Learning and Deep Learning Methodologies.
 
 
 ### Project Objective
