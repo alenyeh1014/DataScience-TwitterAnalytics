@@ -96,5 +96,11 @@ Twitter in order to forecast NBA result predictions in this project.
   - After all the analysis, we find out that Sentiment Analysis has the best performance at the end; therefore, we determine to implement Sentiment Analysis with mentioned algorithms.
 
 
+### Methodology Approach 
 
+    Model | AUC | Accuracy | Precision
+     ---  | --- | --- | --- 
+    Logistic Regression | 0.9561 | 0.9923 | 0.7979 
+    Random Forest | 0.9713 | **0.9924** | 0.7755
+    GBDT | **0.9735** | 0.9913 | **0.8367**
 
