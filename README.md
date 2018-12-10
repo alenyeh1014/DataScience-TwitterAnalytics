@@ -74,9 +74,19 @@ Twitter in order to forecast NBA result predictions in this project.
     
       * Separate the entire dataset into three subset datasets based on the time period and they are "3 days", "7 days" and "1 month" individually.
       * Remove the useless contents such as 'twitter', 'http', 'com', 'pic', 'ift', 'tt', 'https' and so on.
-      * After pointing out the top 20 highest frequency words in each time period, we decide to take 5 most meaningful words in the demonstration, but the results still not good enough for us to make the predictions.
+      * After pointing out the top 20 highest frequency words in each time period, we decide to take 5 most meaningful words in the demonstration.
+      * Unfortunately, the results are still not good enough for us to make the game predictions.
 
     - Injury and Recovery Factors:
+      
+      * In this section, we are more interested in finding some influential factors which could affect the results of the games. 
+      * Therefore, we were wondering if there are injured players or recovered players in the team because they may have huge influences on the game results if they are key players for that team.
+      * Here are some commom key words for tweets related to injury and recovery words:
+        * Injury words (Negative): ￼￼￼['hurt','injury','injured','broken','tear','missed','ill', 'illness']
+￼￼        * Recovery words (Positive): ￼￼￼￼['recover','recovery','return','health','healthy','heal', 'back', 'rehab']
+      * After that we count these words and determine if Injury words > Recovery words then which means it is a good expectation for that team. 
+      * Otherwise, if Recovery words > Injury words then which means it is a bad expectation for the team.
+      
     - Sentiment Analysis:
   
   - After that we find out that Sentiment Analysis has the best performance at the end; therefore, we determine to implement Sentiment Analysis with five mentioned algorithms.
