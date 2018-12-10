@@ -72,9 +72,9 @@ Twitter in order to forecast NBA result predictions in this project.
   
     - Highest Frequency Words:
     
-    * Separate the entire dataset into three subset datasets based on the time period and they are "3 days", "7 days" and "1 month" individually.
-    * Remove the useless contents such as 'twitter', 'http', 'com', 'pic', 'ift', 'tt', 'https' and so on.
-    * After pointing out the top 20 highest frequency words in each time period, we decide to take 5 most meaningful words in the demonstration, but the results still not good enough for us to make the predictions.
+      * Separate the entire dataset into three subset datasets based on the time period and they are "3 days", "7 days" and "1 month" individually.
+      * Remove the useless contents such as 'twitter', 'http', 'com', 'pic', 'ift', 'tt', 'https' and so on.
+      * After pointing out the top 20 highest frequency words in each time period, we decide to take 5 most meaningful words in the demonstration, but the results still not good enough for us to make the predictions.
 
     - Injury and Recovery Factors:
     - Sentiment Analysis:
