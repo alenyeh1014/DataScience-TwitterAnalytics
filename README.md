@@ -83,7 +83,7 @@ Twitter in order to forecast NBA result predictions in this project.
       * Therefore, we were wondering if there are injured players or recovered players in the team because they may have huge influences on the game results if they are key players for that team.
       * Here are some commom key words for tweets related to injury and recovery words:
         * Injury words (Negative): ￼￼￼['hurt','injury','injured','broken','tear','missed','ill', 'illness']
-￼￼        * Recovery words (Positive): ￼￼￼￼['recover','recovery','return','health','healthy','heal', 'back', 'rehab']
+        * Recovery words (Positive): ￼￼￼￼['recover','recovery','return','health','healthy','heal', 'back', 'rehab']
       * After that we count these words and determine if Injury words > Recovery words then which means it is a good expectation for that team. 
       * Otherwise, if Recovery words > Injury words then which means it is a bad expectation for the team.
       
