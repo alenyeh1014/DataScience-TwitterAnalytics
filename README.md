@@ -37,9 +37,13 @@ Twitter in order to forecast NBA result predictions in this project.
 
 * Motivation:
 
-  - It is simple and straightforward since we are all sport fans and twitter lovers making a related project seems reasonable! 
+  - It is simple and straightforward since we are all sport fans and twitter lovers making a related project seems persuasive and reasonable for us ! 
+  - Thus, we would like to apply ML and DL methodologies to predict the NBA game results from Twitter. 
+  - Furthermore, the accuracy of each methodology is also crucial and practical for users friendly.  
+  
+* Details:
 
-
+  - 
 
 
 
