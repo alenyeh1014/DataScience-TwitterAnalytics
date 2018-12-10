@@ -98,9 +98,10 @@ Twitter in order to forecast NBA result predictions in this project.
 
 ### Methodology Approach 
 
-    Model | AUC | Accuracy | Precision
-     ---  | --- | --- | --- 
-    Logistic Regression | 0.9561 | 0.9923 | 0.7979 
-    Random Forest | 0.9713 | **0.9924** | 0.7755
-    GBDT | **0.9735** | 0.9913 | **0.8367**
+* Accuracy of Naive Bayes Classifiers (NB)
+
+| Non_Sentiment Analysis | Sentiment Analysis |
+| --- | --- |
+| around 50% to 60% | around 50% |
+| git diff | Show file differences that haven't been staged |
 
