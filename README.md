@@ -100,13 +100,13 @@ Twitter in order to forecast NBA result predictions in this project.
 
 * In this section, we try to test the accuracy of combining algorithms with and without Sentiment Analysis:  
 
-  * Supervised Learning algorithms:
+  * Supervised Learning Algorithms:
   
     (1) Accuracy of Naive Bayes Classifiers (NB):
 
-        | Non_Sentiment Analysis | Sentiment Analysis |
-        | --- | --- |
-        | around 50% to 60% | around 50% |
+      | Non_Sentiment Analysis | Sentiment Analysis |
+      | --- | --- |
+      | around 50% to 60% | around 50% |
 
 
     (2) Accuracy of Support Vector Machines (SVM):
@@ -116,23 +116,27 @@ Twitter in order to forecast NBA result predictions in this project.
       | around 50% to 60% | around 50% |
     
     
-    (3) Accuracy of Naive Bayes Classifiers (NB)
+  * Unsupervised Learning Algorithms:
+    
+    (3) Accuracy of K-means Clustering:
 
-      | Non_Sentiment Analysis | Sentiment Analysis |
-      | --- | --- |
-      | around 50% to 60% | around 50% |
+      | Non_Sentiment Analysis |
+      | --- |
+      | around 50% |
     
     
-    (4) Accuracy of Naive Bayes Classifiers (NB)
+      - P.S. We do not apply Sentiment Ananlysis for Unsupervised Learning Algorithms because 
+    
+    (4) Accuracy of Latent Dirichlet Allocation (LDA):
 
-    | Non_Sentiment Analysis | Sentiment Analysis |
-    | --- | --- |
-    | around 50% to 60% | around 50% |
+      | Non_Sentiment Analysis |
+      | --- |
+      | around 50% | 
     
     
     (5) Accuracy of Naive Bayes Classifiers (NB)
 
-    | Non_Sentiment Analysis | Sentiment Analysis |
-    | --- | --- |
+      | Non_Sentiment Analysis | Sentiment Analysis |
+      | --- | --- |
     | around 50% to 60% | around 50% |
 
