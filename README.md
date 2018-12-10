@@ -35,9 +35,9 @@ Twitter in order to forecast NBA result predictions in this project.
 
 ### Project Description
 
-1. Motivation:
+* Motivation:
 
-  * Actually, it is simple and straightforward because we are all sport fans and twitter lovers ! 
+  - It is simple and straightforward since we are all sport fans and twitter lovers making a related project seems reasonable! 
 
 
 
