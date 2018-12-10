@@ -43,11 +43,12 @@ Twitter in order to forecast NBA result predictions in this project.
   
 * Details:
 
-  (1) There are total 30 teams in the NBA league and can be filtered by 15 teams respectively in Eastern and Western conferences. Here, we randomly pick 8 teams as our references and then scraping the data from tweets.
+  - There are total 30 teams in the NBA league and can be filtered by 15 teams respectively in Eastern and Western
+  conferences. Here, we randomly pick 8 teams as our references and then scraping the data from tweets.
   
-  (2) Since we cannot obtain the data for more than past 30 days from the standard Twitter API, we move on to find another way to gain the data.
+  - Since we cannot obtain the data for more than past 30 days from the standard Twitter API, we move on to find another way to gain the data.
   
-  (3) We apply Twitter search engine to receive the tweets related to “NBA teams” in 2016. The basic idea is to request directly from tweets and then return them as JSON files.
+  - We apply Twitter search engine to receive the tweets related to “NBA teams” in 2016. The basic idea is to request directly from tweets and then return them as JSON files.
 
 
 
