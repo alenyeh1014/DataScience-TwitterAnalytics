@@ -43,7 +43,7 @@ Twitter in order to forecast NBA result predictions in this project.
   
 * Details:
 
-  - 
+  1. There are total 30 teams in NBA league and can be filtered by 15 teams respectively in Eastern and Western Conference.
 
 
 
