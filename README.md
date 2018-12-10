@@ -100,6 +100,7 @@ Twitter in order to forecast NBA result predictions in this project.
 
 * In this section, we try to test the accuracy of combining algorithms with and without Sentiment Analysis:  
 
+
   * Supervised Learning Algorithms:
   
     (1) Accuracy of Naive Bayes Classifiers (NB):
@@ -124,19 +125,27 @@ Twitter in order to forecast NBA result predictions in this project.
       | --- |
       | around 50% |
     
-    
-      - P.S. We do not apply Sentiment Ananlysis for Unsupervised Learning Algorithms because 
-    
+        
     (4) Accuracy of Latent Dirichlet Allocation (LDA):
 
       | Non_Sentiment Analysis |
       | --- |
       | around 50% | 
-    
-    
-    (5) Accuracy of Naive Bayes Classifiers (NB)
 
-      | Non_Sentiment Analysis | Sentiment Analysis |
-      | --- | --- |
-    | around 50% to 60% | around 50% |
+   
+   * Deep Learning Algorithm:
+   
+    (5) Accuracy of Convolutional Neural Network (CNN):
+
+      | Non_Sentiment Analysis |
+      | --- |
+      | around 60% | 
+    
+    
+      - P.S. We do not apply Sentiment Ananlysis for Unsupervised Learning Algorithms because Sentiment Ananlysis is not appropriate for them.
+          
+          
+          
+          
+          
 
