@@ -146,9 +146,7 @@ Twitter in order to forecast NBA result predictions in this project.
           
 ### Conclusion:
 
-  - 
+  - After comparing with five different algorithms, we conclude that supervised learning algorithms (Naive Bayes and SVM) have better performances than unsupervised learning algorithms (K-means and LDA). However, CNN still has the highest accuracy than the other algorithms. That is to say, CNN is the most powerful and practical algorithm in this Twitter Project !
 
 
-          
-          
 
