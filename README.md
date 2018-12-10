@@ -26,6 +26,20 @@ Twitter in order to forecast NBA result predictions in this project.
 * Predictive Modeling
 
 
+### Algorithms Used
+
+- Supervised Learning: 
+  - Naive Bayes Classifiers (NB)
+  - Support Vector Machines (SVM)
+  
+- Unsupervised Learning: 
+  - K-means Clustering
+  - Latent Dirichlet Allocation (LDA)
+  
+- Deeping Learning: 
+  - Convolutional Neural Network (CNN)
+
+
 ### Technologies and Packaged Used
 
 * Python, Jupyter Notebook
@@ -49,7 +63,12 @@ Twitter in order to forecast NBA result predictions in this project.
   - Since we cannot obtain the data for more than past 30 days from the standard Twitter API, we move on to find another way to gain the data.
   
   - We apply Twitter search engine to receive the tweets related to “NBA teams” in 2016. The basic idea is to request directly from tweets and then return them as JSON files.
+  
+* Initial Text Analysis:
 
+  - Since we do not know which methodology has the best performance for our Twitter project, we decide to try three possible ways (Highest Frequency Words, Injury and Recovery Factors and Sentiment Analysis) to test with our dataset as our first step.
+  
+  - After that we find out that Sentiment Analysis has the best performance at the end; therefore, we determine to implement Sentiment Analysis with five mentioned algorithms.
 
 
 
