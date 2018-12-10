@@ -100,7 +100,8 @@ Twitter in order to forecast NBA result predictions in this project.
 
 * In this section, we try to test the accuracy of combining algorithms with and without Sentiment Analysis:  
 
-  Supervised Learning algorithms:
+  * Supervised Learning algorithms:
+  
   (1) Accuracy of Naive Bayes Classifiers (NB):
 
       | Non_Sentiment Analysis | Sentiment Analysis |
