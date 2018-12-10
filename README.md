@@ -102,35 +102,35 @@ Twitter in order to forecast NBA result predictions in this project.
 
   * Supervised Learning algorithms:
   
-  (1) Accuracy of Naive Bayes Classifiers (NB):
+    (1) Accuracy of Naive Bayes Classifiers (NB):
 
-      | Non_Sentiment Analysis | Sentiment Analysis |
-      | --- | --- |
-      | around 50% to 60% | around 50% |
+        | Non_Sentiment Analysis | Sentiment Analysis |
+        | --- | --- |
+        | around 50% to 60% | around 50% |
 
 
-  (2) Accuracy of Support Vector Machines (SVM):
-
-      | Non_Sentiment Analysis | Sentiment Analysis |
-      | --- | --- |
-      | around 50% to 60% | around 50% |
-    
-    
-  (3) Accuracy of Naive Bayes Classifiers (NB)
+    (2) Accuracy of Support Vector Machines (SVM):
 
       | Non_Sentiment Analysis | Sentiment Analysis |
       | --- | --- |
       | around 50% to 60% | around 50% |
     
     
-  (4) Accuracy of Naive Bayes Classifiers (NB)
+    (3) Accuracy of Naive Bayes Classifiers (NB)
+
+      | Non_Sentiment Analysis | Sentiment Analysis |
+      | --- | --- |
+      | around 50% to 60% | around 50% |
+    
+    
+    (4) Accuracy of Naive Bayes Classifiers (NB)
 
     | Non_Sentiment Analysis | Sentiment Analysis |
     | --- | --- |
     | around 50% to 60% | around 50% |
     
     
-  (5) Accuracy of Naive Bayes Classifiers (NB)
+    (5) Accuracy of Naive Bayes Classifiers (NB)
 
     | Non_Sentiment Analysis | Sentiment Analysis |
     | --- | --- |
