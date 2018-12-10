@@ -135,17 +135,20 @@ Twitter in order to forecast NBA result predictions in this project.
    
    * Deep Learning Algorithm:
    
-    (5) Accuracy of Convolutional Neural Network (CNN):
+     (5) Accuracy of Convolutional Neural Network (CNN):
 
       | Non_Sentiment Analysis |
       | --- |
       | around 60% | 
     
-    
-      - P.S. We do not apply Sentiment Ananlysis for Unsupervised Learning Algorithms because Sentiment Ananlysis is not appropriate for them.
+      - P.S. We do not apply Sentiment Ananlysis for Unsupervised Learning and Deep Learning Algorithms because Sentiment Ananlysis is not appropriate for them.
           
           
-          
+### Conclusion:
+
+  - 
+
+
           
           
 
