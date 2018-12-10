@@ -26,5 +26,10 @@ Twitter in order to forecast NBA result predictions in this project.
 * Predictive Modeling
 
 
+### Technologies and Packaged Used
+
+* Python, Jupyter Notebook
+* Numpy, Pandas, Sklearn, Nltk
+* Matplotlib, Scipy, Seaborn, Keras
 
 
