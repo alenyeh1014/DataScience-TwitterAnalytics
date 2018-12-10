@@ -88,8 +88,12 @@ Twitter in order to forecast NBA result predictions in this project.
       * Otherwise, if Recovery words > Injury words then which means it is a bad expectation for the team.
       
     - Sentiment Analysis:
+    
+      * First of all, we count the amount of positive/negative words by each tweet. Once the amount of positive words greater than negative words we treat it as a good result.
+      * In addition, if good results are more than bad results 24 hours before the competition, we predict the result of the game is to win.
+      * Furthermore, we apply TF-IDF model to filter tweets and find out it has the highest accuracy than the previous two methods. 
   
-  - After that we find out that Sentiment Analysis has the best performance at the end; therefore, we determine to implement Sentiment Analysis with five mentioned algorithms.
+  - After all the analysis, we find out that Sentiment Analysis has the best performance at the end; therefore, we determine to implement Sentiment Analysis with mentioned algorithms.
 
 
 
