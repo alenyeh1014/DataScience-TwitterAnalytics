@@ -62,11 +62,15 @@ Twitter in order to forecast NBA result predictions in this project.
   
   - Since we cannot obtain the data for more than past 30 days from the standard Twitter API, we move on to find another way to gain the data.
   
-  - We apply Twitter search engine to receive the tweets related to “NBA teams” in 2016. The basic idea is to request directly from tweets and then return them as JSON files.
+  - We apply Twitter search engine to receive the tweets related to “NBA teams” in 2016 and 2017. The basic idea is to request directly from tweets and then return them as JSON files.
+  
+  - We collect tweets every day for the entire 2017 NBA season. Since the ￼￼competition started from 2016-10-25 to 2017-04-12, we get more than 2,000 tweets for a day and totally more than 2,500,000 tweets !  
   
 * Initial Text Analysis:
 
   - Since we do not know which methodology has the best performance for our Twitter project, we decide to try three possible ways (Highest Frequency Words, Injury and Recovery Factors and Sentiment Analysis) to test with our dataset as our first step.
+  
+    - Highest Frequency Words: 
   
   - After that we find out that Sentiment Analysis has the best performance at the end; therefore, we determine to implement Sentiment Analysis with five mentioned algorithms.
 
