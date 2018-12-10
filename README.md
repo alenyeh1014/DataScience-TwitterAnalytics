@@ -33,3 +33,14 @@ Twitter in order to forecast NBA result predictions in this project.
 * Matplotlib, Scipy, Seaborn, Keras
 
 
+### Project Description
+
+Our motivation for this project is simple and straightforward because we are all sport fans and twitter lovers ! 
+
+
+
+
+
+
+
+
