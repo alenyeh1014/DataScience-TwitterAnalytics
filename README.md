@@ -15,7 +15,15 @@ Twitter in order to forecast NBA result predictions in this project.
 * Website for partners: [Chieh], [https://github.com/cshih685]
 
 
+### Methods Used
 
+* Inferential Statistics
+* Web Scraping
+* Data Wrangling
+* Data Visualization
+* Machine Learning
+* Deep Learning Learning
+* Predictive Modeling
 
 
 
