@@ -70,7 +70,14 @@ Twitter in order to forecast NBA result predictions in this project.
 
   - Since we do not know which methodology has the best performance for our Twitter project, we decide to try three possible ways (Highest Frequency Words, Injury and Recovery Factors and Sentiment Analysis) to test with our dataset as our first step.
   
-    - Highest Frequency Words: 
+    - Highest Frequency Words:
+    
+    * Separate the entire dataset into three subset datasets based on the time period and they are "3 days", "7 days" and "1 month" individually.
+    * Remove the useless contents such as 'twitter', 'http', 'com', 'pic', 'ift', 'tt', 'https' and so on.
+    * After pointing out the top 20 highest frequency words in each time period, we decide to take 5 most meaningful words in the demonstration, but the results still not good enough for us to make the predictions.
+
+    - Injury and Recovery Factors:
+    - Sentiment Analysis:
   
   - After that we find out that Sentiment Analysis has the best performance at the end; therefore, we determine to implement Sentiment Analysis with five mentioned algorithms.
 
