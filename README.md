@@ -98,10 +98,39 @@ Twitter in order to forecast NBA result predictions in this project.
 
 ### Methodology Approach 
 
-* Accuracy of Naive Bayes Classifiers (NB)
+* In this section, we try to test the accuracy of combining algorithms with and without Sentiment Analysis:  
 
-| Non_Sentiment Analysis | Sentiment Analysis |
-| --- | --- |
-| around 50% to 60% | around 50% |
-| git diff | Show file differences that haven't been staged |
+  (1) Accuracy of Naive Bayes Classifiers (NB)
+
+    | Non_Sentiment Analysis | Sentiment Analysis |
+    | --- | --- |
+    | around 50% to 60% | around 50% |
+
+
+  (2) Accuracy of Naive Bayes Classifiers (NB)
+
+    | Non_Sentiment Analysis | Sentiment Analysis |
+    | --- | --- |
+    | around 50% to 60% | around 50% |
+    
+    
+  (3) Accuracy of Naive Bayes Classifiers (NB)
+
+    | Non_Sentiment Analysis | Sentiment Analysis |
+    | --- | --- |
+    | around 50% to 60% | around 50% |
+    
+    
+  (4) Accuracy of Naive Bayes Classifiers (NB)
+
+    | Non_Sentiment Analysis | Sentiment Analysis |
+    | --- | --- |
+    | around 50% to 60% | around 50% |
+    
+    
+  (5) Accuracy of Naive Bayes Classifiers (NB)
+
+    | Non_Sentiment Analysis | Sentiment Analysis |
+    | --- | --- |
+    | around 50% to 60% | around 50% |
 
