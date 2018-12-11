@@ -22,7 +22,7 @@ Twitter in order to forecast NBA result predictions in this project.
 * Data Wrangling
 * Data Visualization
 * Machine Learning
-* Deep Learning Learning
+* Deep Learning
 * Predictive Modeling
 
 
