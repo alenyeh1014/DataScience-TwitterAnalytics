@@ -8,13 +8,6 @@ Hi all, this is a Data Science Project ! - Twitter Analytics with Machine Learni
 Twitter in order to forecast NBA result predictions in this project.
 
 
-### Partners
-
-* Ming-Ting Hsieh, Chieh Shih
-* Website for partners: [Ming-Ting], [https://github.com/Cosoet]
-* Website for partners: [Chieh], [https://github.com/cshih685]
-
-
 ### Methods Used
 
 * Inferential Statistics
