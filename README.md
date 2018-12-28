@@ -44,39 +44,39 @@ Twitter in order to predict the game results of NBA. Thus, more business opportu
 
 * Motivation:
 
-  - Since I am a NBA sport fan and twitter lover, I decide to work on a social media analytics project combining the skills and technologies from what I have learned to see how it works. Therefore, I apply Machine Learning and Deep Learning methodologies to predict the NBA game results from Twitter. Meanwhile, in order to obtain good performance of each methodology, accuracies are also important and necessary for every individual user.  
+  - Since we are NBA sport fans and twitter lovers, we decide to work on a social media analytics project combining the skills and technologies from what I have learned to see how it works. Therefore, we apply Machine Learning and Deep Learning methodologies to predict the NBA game results from Twitter. Meanwhile, in order to obtain good performance of each methodology, accuracies are also important and necessary for every individual user.  
   
-* Details:
+* Data and Scope:
 
-  - There are total 30 teams in the NBA league and can be filtered by 15 teams respectively in Eastern and Western
-  conferences. Here, we randomly pick 8 teams as our references and then scraping the data from tweets.
+  - There are total 30 teams in the NBA league and can be divided by 15 teams respectively in Eastern and Western
+  conferences. Here, we randomly pick 8 teams as sample data and scrape the data from tweets.
   
-  - Since we cannot obtain the data for more than past 30 days from the standard Twitter API, we move on to find another way to gain the data.
+  - Since we cannot obtain the data for more than past 30 days from the standard twitter API, we move on to find another way to gain the data.
   
-  - We apply Twitter search engine to receive the tweets related to “NBA teams” in 2016 and 2017. The basic idea is to request directly from tweets and then return them as JSON files.
+  - We apply twitter search engine to receive the tweets related to “NBA teams” in 2016 and 2017. The basic idea is to request directly from tweets and then return them as **JSON** files.
   
-  - We collect tweets every day for the entire 2017 NBA season. Since the ￼￼competition started from 2016-10-25 to 2017-04-12, we get more than 2,000 tweets for a day and totally more than 2,500,000 tweets !  
+  - We collect tweets every day for the entire 2017 NBA season. Since the ￼￼competition started from 2016-10-25 to 2017-04-12, we get more than 2,000 tweets for a day and totally **more than 2,500,000 tweets!**  
   
 * Initial Text Analysis:
 
-  - Since we do not know which methodology has the best performance for our Twitter project, we decide to try three possible ways (Highest Frequency Words, Injury and Recovery Factors and Sentiment Analysis) to test with our dataset as our first step.
+  - At first, we do not know which methodology has the best performance for this project. Therefore, we consider and decide to try three possible ways **(Highest Frequency Words, Injury and Recovery Factors and Sentiment Analysis)** to test with our sample dataset as our first step.
   
     - Highest Frequency Words:
     
-      * Separate the entire dataset into three subset datasets based on the time period and they are "3 days", "7 days" and "1 month" individually.
-      * Remove the useless contents such as 'twitter', 'http', 'com', 'pic', 'ift', 'tt', 'https' and so on.
-      * After pointing out the top 20 highest frequency words in each time period, we decide to take 5 most meaningful words in the demonstration.
-      * Unfortunately, the results are still not good enough for us to make the game predictions.
+      * Separate the entire dataset into **three subset datasets** based on the time period and they are "3 days", "7 days" and "1 month" individually.
+      * Remove the **useless** contents such as 'twitter', 'http', 'com', 'pic', 'ift', 'tt', 'https' and so on.
+      * After pointing out the top 20 highest frequency words in each time period, we take **5 most meaningful words** for the demonstration.
+      * However, the results are not good enough to make the game predictions accurately.
 
     - Injury and Recovery Factors:
       
-      * In this section, we are more interested in finding some influential factors which could affect the results of the games. 
-      * Therefore, we were wondering if there are injured players or recovered players in the team because they may have huge influences on the game results if they are key players for that team.
-      * Here are some commom key words for tweets related to injury and recovery words:
+      * In this section, we are more interested in finding some **influential factors** which could affect the results of the games. 
+      * Therefore, we wonder if there are **injured players or recovered players** in the team because they may have huge influences on the game results if they are key players for that team.
+      * Here are some commom key words for tweets related to **injury and recovery words**:
         * Injury words (Negative): ￼￼￼['hurt','injury','injured','broken','tear','missed','ill', 'illness']
         * Recovery words (Positive): ￼￼￼￼['recover','recovery','return','health','healthy','heal', 'back', 'rehab']
-      * After that we count these words and determine if Injury words > Recovery words then which means it is a good expectation for that team. 
-      * Otherwise, if Recovery words > Injury words then which means it is a bad expectation for the team.
+      * After that we count these words and determine if **Injury words > Recovery words** then which means it is a **good expectation** for that team. 
+      * Otherwise, if **Recovery words > Injury words** then which means it is a **bad expectation** for the team.
       
     - Sentiment Analysis:
     
