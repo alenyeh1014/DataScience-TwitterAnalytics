@@ -1,11 +1,11 @@
 # Web Analytics: NBA Predictions with Twitter
-Hi all, this is a Data Science Project ! - Twitter Analytics with Machine Learning and Deep Learning Methodologies.
+Hi all, this is a Data Science Project ! - Twitter Analytics with Machine Learning and Deep Learning methodologies.
 
 
 ### Project Objective
 
-* The purpose of this project is to apply Machine Learning and Deep Learning Methodologies in Social Media Analytics such as 
-Twitter in order to forecast NBA result predictions in this project.
+* The purpose of this project is to apply Machine Learning and Deep Learning methodologies in social media analytics such as 
+Twitter in order to predict the game results of NBA. Thus, more business opportunities can be detected and utilized not only for NBA but also for other relevant sport leagues.
 
 
 ### Methods Used
@@ -26,14 +26,14 @@ Twitter in order to forecast NBA result predictions in this project.
   - Support Vector Machines (SVM)
   
 - Unsupervised Learning: 
-  - K-means Clustering
+  - K-means Clustering (K-means)
   - Latent Dirichlet Allocation (LDA)
   
 - Deeping Learning: 
   - Convolutional Neural Network (CNN)
 
 
-### Technologies and Packaged Used
+### Technologies and Packages Used
 
 * Python, Jupyter Notebook
 * Numpy, Pandas, Sklearn, Nltk
@@ -44,9 +44,7 @@ Twitter in order to forecast NBA result predictions in this project.
 
 * Motivation:
 
-  - It is simple and straightforward since we are all sport fans and twitter lovers making a related project seems persuasive and reasonable for us ! 
-  - Thus, we would like to apply ML and DL methodologies to predict the NBA game results from Twitter. 
-  - Furthermore, the accuracy of each methodology is also crucial and practical for users friendly.  
+  - Since I am a NBA sport fan and twitter lover, I decide to work on a social media analytics project combining the skills and technologies from what I have learned to see how it works. Therefore, I apply Machine Learning and Deep Learning methodologies to predict the NBA game results from Twitter. Meanwhile, in order to obtain good performance of each methodology, accuracies are also important and necessary for every individual user.  
   
 * Details:
 
