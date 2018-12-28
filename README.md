@@ -80,16 +80,16 @@ Twitter in order to predict the game results of NBA. Thus, more business opportu
       
     - Sentiment Analysis:
     
-      * First of all, we count the amount of positive/negative words by each tweet. Once the amount of positive words greater than negative words we treat it as a good result.
-      * In addition, if good results are more than bad results 24 hours before the competition, we predict the result of the game is to win.
-      * Furthermore, we apply TF-IDF model to filter tweets and find out it has the highest accuracy than the previous two methods. 
+      * First of all, we count the amount of positive/negative words from all tweets. **Once the amount of positive words greater than negative words we treat it as a good result**.
+      * In addition, if **good results are more than bad results** 24 hours before the competition, we predict the result of the game is to **win**.
+      * Furthermore, we apply **TF-IDF model** to filter tweets and discover this accuracy is much higher than the previous ones. 
   
-  - After all the analysis, we find out that Sentiment Analysis has the best performance at the end; therefore, we determine to implement Sentiment Analysis with mentioned algorithms.
+  - After processing three different kinds of methodologies, **we find out that Sentiment Analysis has the best performance** at the end; therefore, we determine to implement Sentiment Analysis with mentioned algorithms.
 
 
 ### Methodology Approach 
 
-* In this section, we try to test the accuracy of combining algorithms with and without Sentiment Analysis:  
+* In this section, we gain the accuracy of combining algorithms with and without Sentiment Analysis:  
 
 
   * Supervised Learning Algorithms:
@@ -110,7 +110,7 @@ Twitter in order to predict the game results of NBA. Thus, more business opportu
     
   * Unsupervised Learning Algorithms:
     
-    (3) Accuracy of K-means Clustering:
+    (3) Accuracy of K-means Clustering (K-means):
 
       | Non_Sentiment Analysis |
       | --- |
@@ -137,7 +137,7 @@ Twitter in order to predict the game results of NBA. Thus, more business opportu
           
 ### Conclusion:
 
-  - After comparing with five different algorithms, we conclude that supervised learning algorithms (Naive Bayes and SVM) have better performances than unsupervised learning algorithms (K-means and LDA). However, CNN still has the highest accuracy than the other algorithms. That is to say, CNN is the most powerful and practical algorithm in this Twitter Project !
+  - After comparing with five different algorithms, we conclude that **supervised learning algorithms (Naive Bayes and SVM) have better performances than unsupervised learning algorithms (K-means and LDA)**. However, **CNN still has the highest accuracy than the other algorithms**. That is to say, CNN is the most practical algorithm in this twitter project and we should improve the performance by modifying the parameters set inside the model.
 
 
 
