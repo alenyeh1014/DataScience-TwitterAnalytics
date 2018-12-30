@@ -132,7 +132,7 @@ Twitter in order to predict the game results of NBA. Thus, more business opportu
       | --- |
       | around 60% | 
     
-      - P.S. We do not apply Sentiment Ananlysis for Unsupervised Learning and Deep Learning Algorithms because Sentiment Ananlysis is not appropriate for them.
+      - P.S. We do not apply **Sentiment Ananlysis** for **Unsupervised Learning** and **Deep Learning** Algorithms because Sentiment Ananlysis is not appropriate for Unsupervised Learning and also no need for Deep Learning Alogrithms.
           
           
 ### Conclusion:
