@@ -49,7 +49,7 @@ Hi all, this is a Data Science Project ! - Twitter Analytics with Machine Learni
 * Data and Scope:
 
   - There are total 30 teams in the NBA league and can be divided by 15 teams respectively in Eastern and Western
-  conferences. Here, we randomly pick 8 teams as sample data and scrape the data from tweets.
+  conferences. Here, we randomly pick **8 teams as sample data and scrape the data from tweets**.
   
   - Since we cannot obtain the data for more than past 30 days from the standard twitter API, we move on to find another way to gain the data.
   
