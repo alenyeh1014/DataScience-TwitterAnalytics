@@ -98,14 +98,14 @@ Hi all, this is a Data Science Project ! - Twitter Analytics with Machine Learni
 
       | Non_Sentiment Analysis | Sentiment Analysis |
       | --- | --- |
-      | around 50% to 60% | around 50% |
+      | **around 50% to 60%** | around 50% |
 
 
     (2) Accuracy of Support Vector Machines (SVM):
 
       | Non_Sentiment Analysis | Sentiment Analysis |
       | --- | --- |
-      | around 50% to 60% | around 50% |
+      | **around 50% to 60%** | around 50% |
     
     
   * Unsupervised Learning Algorithms:
@@ -130,7 +130,7 @@ Hi all, this is a Data Science Project ! - Twitter Analytics with Machine Learni
 
       | Non_Sentiment Analysis |
       | --- |
-      | around 60% | 
+      | **around 60%** | 
     
       - P.S. We do not apply **Sentiment Ananlysis** for **Unsupervised Learning** and **Deep Learning** Algorithms because Sentiment Ananlysis is not appropriate for Unsupervised Learning and also no need for Deep Learning Alogrithms.
           
