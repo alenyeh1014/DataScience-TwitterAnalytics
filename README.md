@@ -44,7 +44,7 @@ Hi all, this is a Data Science Project ! - Twitter Analytics with Machine Learni
 
 * Motivation:
 
-  - Since we are NBA sport fans and twitter lovers, we decide to work on a social media analytics project combining the skills and technologies from what I have learned to see how it works. Therefore, we apply Machine Learning and Deep Learning methodologies to predict the NBA game results from Twitter. Meanwhile, in order to obtain good performance of each methodology, accuracies are also important and necessary for every individual user.  
+  - Since we are NBA sport fans and twitter lovers, we decide to work on a **social media analytics** project combining the skills and technologies from we have learned to see how it works. Therefore, we apply **Machine Learning and Deep Learning methodologies** to predict the NBA game results from Twitter. Meanwhile, in order to obtain good performance of each methodology, accuracies are also important and necessary for every individual user.  
   
 * Data and Scope:
 
