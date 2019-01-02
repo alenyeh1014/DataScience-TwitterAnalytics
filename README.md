@@ -5,7 +5,7 @@ Hi all, this is a Data Science Project ! - Twitter Analytics with Machine Learni
 ### Project Objective
 
 * The purpose of this project is to apply Machine Learning and Deep Learning methodologies in social media analytics such as 
-Twitter in order to predict the game results of NBA. Thus, more business opportunities can be detected and utilized not only for NBA but also for other relevant sport leagues.
+**Twitter** in order to predict the game results of NBA. Thus, more business opportunities may be detected and utilized not only for NBA but also for other relevant sport leagues.
 
 
 ### Methods Used
