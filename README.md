@@ -137,7 +137,7 @@ Hi all, this is a Data Science Project ! - Twitter Analytics with Machine Learni
           
 ### Conclusion:
 
-  - After comparing with five different algorithms, we conclude that **supervised learning algorithms (Naive Bayes and SVM) have better performances than unsupervised learning algorithms (K-means and LDA)**. The possible reason is because **labels** utilized in supervised learning alogritms may strengthen the features of tweets; therefore, it can improve the accuracy of predictions in game results. However, **CNN still has the highest accuracy performance over than any other methodologies**. That is to say, CNN is the most practical algorithm in this twitter project and we should keep modifying the parameters set inside the model in order to gain a better performance.
+  - After comparing with five different algorithms, we conclude that **supervised learning algorithms (Naive Bayes and SVM) have better performances than unsupervised learning algorithms (K-means and LDA)**. The possible reason is because **labels** utilized in supervised learning alogritms may strengthen the features of tweets; therefore, it can improve the accuracy of predictions in NBA game results. However, **CNN still has the highest accuracy performance over than any other methodologies**. That is to say, CNN is the most practical algorithm in this twitter project and we should keep modifying the parameters set inside the model in order to gain a better performance.
 
 
 
